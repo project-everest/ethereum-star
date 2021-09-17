@@ -1,0 +1,8 @@
+Opcode parser:
+
+Usage: python opcode.py addressInput addressOutput.
+AddressInput -> file with the code.
+AddressOutput -> file to save a parsed code.
+
+
+
